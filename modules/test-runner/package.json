@@ -35,7 +35,7 @@
     "lolex": "6.0.0",
     "mocha": "8.1.1",
     "mock-async-storage": "2.2.0",
-    "sequelize": "6.3.4",
+    "sequelize": "6.21.2",
     "sql-template-strings": "2.2.2",
     "sqlite3": "5.0.0",
     "ts-mocha": "7.0.0",
