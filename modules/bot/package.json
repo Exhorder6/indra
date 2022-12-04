@@ -17,9 +17,9 @@
     "@connext/types": "7.3.17",
     "@connext/utils": "7.3.17",
     "axios": "0.19.2",
-    "body-parser": "1.19.0",
+    "body-parser": "1.19.2",
     "ethers": "5.0.7",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "interval-promise": "1.4.0",
     "yargs": "15.4.1"
   },
