@@ -25,7 +25,7 @@
     "@connext/utils": "7.3.17",
     "@connext/watcher": "7.3.17",
     "@nestjs/common": "7.4.2",
-    "@nestjs/core": "7.4.2",
+    "@nestjs/core": "9.0.5",
     "@nestjs/microservices": "7.4.2",
     "@nestjs/platform-express": "7.4.2",
     "@nestjs/schedule": "0.4.0",
