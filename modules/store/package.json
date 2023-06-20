@@ -21,10 +21,10 @@
     "@connext/utils": "7.3.17",
     "localStorage": "1.0.4",
     "p-waterfall": "2.1.0",
-    "pg": "8.3.0",
+    "pg": "8.4.0",
     "pg-hstore": "2.3.3",
     "sequelize": "6.3.4",
-    "sqlite3": "5.0.0",
+    "sqlite3": "5.0.3",
     "uuid": "8.3.0"
   },
   "devDependencies": {
