@@ -46,7 +46,7 @@
     "reflect-metadata": "0.1.13",
     "rxjs": "6.6.2",
     "ts-natsutil": "1.1.1",
-    "typeorm": "0.2.25",
+    "typeorm": "0.2.39",
     "wasm-loader": "1.3.0"
   },
   "devDependencies": {
