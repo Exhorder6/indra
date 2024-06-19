@@ -4,3 +4,4 @@ sphinx >= 2.0
 sphinx_markdown_tables
 sphinx_rtd_theme
 sphinxcontrib-mermaid
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
